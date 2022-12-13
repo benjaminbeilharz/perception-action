@@ -1,0 +1,3 @@
+[submodule "ploscompbio_pucks"]
+	path = ploscompbio_pucks
+	url = https://github.com/RothkopfLab/ploscompbio_pucks
