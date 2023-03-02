@@ -1,0 +1,82 @@
+arviz==0.15.0
+astroid @ file:///croot/astroid_1676904296642/work
+asttokens==2.2.1
+backcall==0.2.0
+cachetools==5.3.0
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+cftime==1.6.2
+cloudpickle==2.2.1
+colorama @ file:///croot/colorama_1672386526460/work
+comm==0.1.2
+cons==0.4.5
+contourpy==1.0.7
+cycler==0.11.0
+debugpy==1.6.6
+decorator==5.1.1
+deprecat==2.1.1
+dill @ file:///croot/dill_1667919592856/work
+etuples==0.3.8
+executing==1.2.0
+fastprogress==1.0.3
+filelock==3.9.0
+flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
+fonttools==4.38.0
+h5netcdf==1.1.0
+h5py==3.8.0
+importlib-metadata==6.0.0
+importlib-resources==5.12.0
+ipykernel==6.21.2
+ipython==8.10.0
+isort @ file:///tmp/build/80754af9/isort_1628603791788/work
+jedi==0.18.2
+jupyter_client==8.0.3
+jupyter_core==5.2.0
+kiwisolver==1.4.4
+lazy-object-proxy @ file:///tmp/build/80754af9/lazy-object-proxy_1616529027849/work
+logical-unification==0.4.5
+matplotlib==3.7.0
+matplotlib-inline==0.1.6
+mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
+miniKanren==1.0.3
+multipledispatch==0.6.0
+nest-asyncio==1.5.6
+netCDF4==1.6.2
+numpy==1.22.1
+packaging==23.0
+pandas==1.5.3
+parso==0.8.3
+patsy==0.5.3
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==9.4.0
+platformdirs==3.0.0
+prompt-toolkit==3.0.36
+psutil==5.9.4
+ptyprocess==0.7.0
+pure-eval==0.2.2
+Pygments==2.14.0
+pylint @ file:///croot/pylint_1676919896363/work
+pymc==5.0.2
+pyparsing==3.0.9
+pytensor==2.9.1
+python-dateutil==2.8.2
+pytz==2022.7.1
+pyzmq==25.0.0
+scipy==1.10.1
+seaborn==0.12.2
+semver==2.13.0
+six==1.16.0
+stack-data==0.6.2
+Theano-PyMC==1.1.2
+tomli @ file:///opt/conda/conda-bld/tomli_1657175507142/work
+tomlkit @ file:///tmp/abs_56_0lnnq5x/croots/recipe/tomlkit_1658946880479/work
+toolz==0.12.0
+tornado==6.2
+traitlets==5.9.0
+typing_extensions==4.5.0
+wcwidth==0.2.6
+wrapt @ file:///tmp/abs_c335821b-6e43-4504-9816-b1a52d3d3e1eel6uae8l/croots/recipe/wrapt_1657814400492/work
+xarray==2023.2.0
+xarray-einstats==0.5.1
+yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
+zipp==3.14.0
